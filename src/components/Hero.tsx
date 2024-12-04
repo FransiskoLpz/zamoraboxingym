@@ -11,11 +11,12 @@ const Hero = () => {
         className="absolute inset-0 w-full h-full object-cover"
       >
         <source
-          src="https://drive.google.com/file/d/1E719dSNrdj3Phsbj8sjBRtoOS_ijMc9a/view?usp=drive_link"
+          src="https://drive.google.com/uc?id=1E719dSNrdj3Phsbj8sjBRtoOS_ijMc9a"
           type="video/mp4"
         />
         Your browser does not support the video tag.
       </video>
+
       <div className="absolute inset-0 bg-black/60" />
       <div className="relative h-full flex items-center justify-center text-white px-4">
         <div className="text-center">

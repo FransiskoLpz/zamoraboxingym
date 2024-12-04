@@ -1,5 +1,7 @@
 import React from "react";
 import { Link } from "react-scroll";
+import video from "/video/ZHH.mp4";
+
 const Hero = () => {
   return (
     <section id="home" className="h-screen relative overflow-hidden">
@@ -11,7 +13,8 @@ const Hero = () => {
         className="absolute inset-0 w-full h-full object-cover"
       >
         <source
-          src="https://drive.google.com/uc?id=1E719dSNrdj3Phsbj8sjBRtoOS_ijMc9a"
+          /* src="https://drive.google.com/uc?id=1E719dSNrdj3Phsbj8sjBRtoOS_ijMc9a" */
+          src={video}
           type="video/mp4"
         />
         Your browser does not support the video tag.

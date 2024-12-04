@@ -1,8 +1,8 @@
 import React from "react";
 import AnimatedSection from "./AnimatedSection";
-import imagen1 from "/zamoraboxingym/public/img/gym-zamora.jpg";
-import imagen2 from "/zamoraboxingym/public/img/gym-zamora2.jpg";
-import imagen3 from "/zamoraboxingym/public/img/gym-zamora3.jpg";
+import imagen1 from "/img/gym-zamora.jpg";
+import imagen2 from "/img/gym-zamora2.jpg";
+import imagen3 from "/img/gym-zamora3.jpg";
 
 const images = [
   "https://images.unsplash.com/photo-1517438322307-e67111335449?auto=format&fit=crop&q=80",

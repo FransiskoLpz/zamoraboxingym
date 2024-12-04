@@ -1,6 +1,6 @@
 import React from "react";
 import AnimatedSection from "./AnimatedSection";
-import imagen from "/zamoraboxingym/public/img/gym-zamora4.jpg";
+import imagen from "/img/gym-zamora4.jpg";
 
 const coaches = [
   {
